@@ -1,0 +1,12 @@
+"jailrp"
+{
+	"base"		"base"
+	"title"		"Jail RP"
+	"maps"		"^jailrp_"
+	"menusystem"	"1"
+	
+	"settings"
+	{
+	
+	}
+}
